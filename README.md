@@ -2,5 +2,6 @@
 Repositorio para la clase 4 de Metodologia de la Investigacion
 # Mi primer repositorio
 
-# I love ♟️:, 🎮:, 🎥:
+# I love ♟️, 🎮, 🎥
 # I love 🎵, 🐱, 🐉
+# I love ☀️, 🏀, 🚲
